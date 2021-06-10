@@ -70,3 +70,7 @@ C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 ex 2\WebApp2\WebA
 C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 ex 2\WebApp2\WebApp2\obj\Debug\WebApp2.csproj.CopyComplete
 C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 ex 2\WebApp2\WebApp2\obj\Debug\WebApp2.dll
 C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 ex 2\WebApp2\WebApp2\obj\Debug\WebApp2.pdb
+C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 ex 2\WebApp2\WebApp2\bin\EntityFramework.dll
+C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 ex 2\WebApp2\WebApp2\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 ex 2\WebApp2\WebApp2\bin\EntityFramework.xml
+C:\Users\HP\Desktop\college documents\Dot net training\10-6-21 ex 2\WebApp2\WebApp2\bin\EntityFramework.SqlServer.xml
